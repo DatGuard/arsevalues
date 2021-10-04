@@ -29,6 +29,6 @@ questions =  [
     {"id": 27, "question": "אני מתעצבן שאנשים לא משתמשים בלשון פנייה הנכון שלי", "effects": {"auth": -1}},
     {"id": 28, "question": "אני מעשן ולא לוקח לריאות", "effects": {"auth": -1}},
     {"id": 29, "question": "אני מבלה בנסטר בלי להכנס לחנויות או לקנות דברים", "effects": {"auth": -1}},
-    {"id": 30, "question": "אני נגד עישון בכללי", "effects": {"right": 1}},
+	{"id": 30, "question": "אני נגד עישון בכללי", "effects": {"right": 1}},
     {"id": 31, "question": "עישנתי דאב בעבר", "effects": {"right": -1}}
 ];
